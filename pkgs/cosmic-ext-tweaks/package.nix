@@ -12,7 +12,7 @@
 
 rustPlatform.buildRustPackage {
   pname = "cosmic-ext-tweaks";
-  version = "0.1.3-unstable-2025-03-19";
+  version = "1.0.0-alpha.7-unstable-2025-04-26";
 
   src = fetchFromGitHub {
     owner = "cosmic-utils";
