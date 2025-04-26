@@ -23,7 +23,7 @@ rustPlatform.buildRustPackage {
   };
 
   useFetchCargoVendor = true;
-  cargoHash = "sha256-yagg6b1Ry46asZXrhEKl6G9guoSsv0vuo6xIWlUBSFs=";
+  cargoHash = "sha256-qufOJeWPRjj4GgWNJmQfYaGKeYOQbkTeFzrUSi9QNnQ=";
 
   nativeBuildInputs = [
     libcosmicAppHook
